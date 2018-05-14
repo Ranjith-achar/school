@@ -51,7 +51,10 @@ function creativ_education_setup() {
 	// Enable support for custom logo.
 	add_theme_support( 'custom-logo' , array(
 		'height'		=>45,	
-		'width'			=>45,	
+		'
+
+
+th'			=>45,	
 		'flex-height'	=>true,	
 		'flex-width'	=>true,
 	));
