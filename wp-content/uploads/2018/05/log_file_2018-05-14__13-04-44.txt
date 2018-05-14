@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Creativ Education Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/navyaschool
+Data file = /var/www/html/navyaschool/wp-content/uploads/2018/05/demo-content-import-file_2018-05-14__13-04-44.xml
+Widget file = /var/www/html/navyaschool/wp-content/uploads/2018/05/demo-widgets-import-file_2018-05-14__13-04-44.json
+Customizer file = /var/www/html/navyaschool/wp-content/uploads/2018/05/demo-customizer-import-file_2018-05-14__13-04-44.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - Creativ Education - Imported
+
+Footer 2 : 
+
+Categories - Degree&#039;s - Imported
+
+Footer 3 : 
+
+Navigation Menu - Other Themes - Imported
+
+Footer 4 : 
+
+Gallery - Galleries - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
